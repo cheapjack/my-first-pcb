@@ -32,7 +32,7 @@ I think any kind of critical approach to making needs some consideration of this
 
 Technical practices and components have hugely dense networks of such *traces*, the *work*, *care* and history packed inside them.
 
-Who made and designed them, where and at what 'cost' where they made becomes relevant when we want to make ethically, with care and with love for the technology we use and depend on.
+Who made and designed them, where and at what 'cost' were they made becomes relevant when we want to make ethically, with care and with love for the technology we use and depend on.
 
 Things like Energy toxicity is vital in writing new histories and new traces into the stuff we make and maintain.
 
@@ -49,10 +49,10 @@ In it Said pretty much describes the overall project of knowledge and meaning ma
 
 *"and I think...the great.. goal is in fact to become someone else, to transform itself from a unitary identity to an identity that includes the other without supressing the difference. That he says is the great goal."*
 
-My forthcoming experiments here with @amcewen are based on the idea that through learning how to make your first pcb we can also begin to consider how we might make a [critical Bill of Materials (BOM)](https://github.com/cheapjack/my-first-pcb) and that this might be a good habit to get into for maker culture and business-not-quite-as-usual. People like [Adrian McEwwn](https://twitter.com/amcewen) and [MCQN.com](https://mcqn.com) are passionate that hackerspace and makerspaces and ways of making technology can change the world, maybe one BOM at a time...
+Some experiments here with @amcewen are based on the idea that through learning how to make your first pcb we can also begin to consider how we might make a [critical Bill of Materials (BOM)](https://github.com/cheapjack/my-first-pcb) and that this might be a good habit to get into for maker culture and business-not-quite-as-usual. People like [Adrian McEwwn](https://twitter.com/amcewen) and [MCQN.com](https://mcqn.com) are passionate that hackerspace and makerspaces and ways of making technology can change the world, maybe one BOM at a time...
 
 
 
 ## MET Matrix
 
-Map out the energy toxicity matrix so we trace the complete carbon cost of your build using the [Materials Energy Toxicity Matrix](http://thingscon2018.productscience.net/) developed at OMGCLIMATE 2019. We found this via [@mrchrisadams](https://twitter.com/mrchrisadams) excellent talk on [Reducing Carbon In the Digital Realm](https://docs.google.com/presentation/d/1_uTPiW5aMCwFhZcpLDxjY-AQMgDmHIyUEZQQ-G6XXq8/edit#slide=id.g5d9e2f62d2_0_42) at [Maintenance Festival 2019 in Liverpool](https://festivalofmaintenance.org.uk)
+Map out an [energy toxicity matrix](MET_Matrix.md) so we trace the complete carbon costs of your build taken from the [Thingscon 2018 Materials Energy Toxicity Matrix](http://thingscon2018.productscience.net/) developed at OMGCLIMATE 2019. We found this via [@mrchrisadams](https://twitter.com/mrchrisadams) excellent talk on [Reducing Carbon In the Digital Realm](https://docs.google.com/presentation/d/1_uTPiW5aMCwFhZcpLDxjY-AQMgDmHIyUEZQQ-G6XXq8/edit#slide=id.g5d9e2f62d2_0_42) at [Maintenance Festival 2019 in Liverpool](https://festivalofmaintenance.org.uk)

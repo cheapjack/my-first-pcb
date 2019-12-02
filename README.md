@@ -17,7 +17,13 @@ Start off by running through the basics in [Designing an LED Throwie](DesigningA
 
 More coming soon
 
-### Infinity of Traces
+## Critical Bill Of Materials 
+
+Bottom line is anyone making your first pcb has the chance to do things differently and like exemplary be the next generation of electronic manufacturing fit for a world that must consider climate change and social justice. This is not impossible, look at the [Fairphone](https://shop.fairphone.com/en/)
+
+We are going to crack on getting your pcb made but along the way we'd also like people to volunteer in completing a [Materials Energy Toxicity Matrix](https://github.com/cheapjack/my-first-pcb/blob/master/MET_Matrix.md) as part of the process of designing and preparing your pcb design.
+
+We'd like to imagine a [One Click Bill Of Materials(BOM)](https://kitspace.org/1-click-bom/) that helped you reduce carbon and engage and buy and sell with ethical manufacturers. But before that we can just get into the habit of making brief notes fo 
 
 I found this [clip of Edward Said](https://soundcloud.com/nicolas-holzheu/edward-said-on-gramsci-infinity-of-traces-without-an-inventory) talking about Gramsci's concept of an "infinity of traces" which I'd originally heard as part of one of the Edward Said mixtapes of [The East Is A Podcast](https://www.eastpodcast.com/)
 

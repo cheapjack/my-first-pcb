@@ -19,7 +19,7 @@ More coming soon
 
 ## Critical Bill Of Materials 
 
-Bottom line is anyone making your first pcb has the chance to do things differently and like exemplary be the next generation of electronic manufacturing fit for a world that must consider climate change and social justice. This is not impossible, look at the [Fairphone](https://shop.fairphone.com/en/)
+Bottom line is anyone making your first pcb has the chance to do things differently: you will be part of the next generation of electronic manufacturing and supply chains that must be fit for a world that considers climate change and social justice in everything we make and do. This is not impossible, look at the [Fairphone](https://shop.fairphone.com/en/)
 
 We are going to crack on getting your pcb made but along the way we'd also like people to volunteer in completing a [Materials Energy Toxicity Matrix](https://github.com/cheapjack/my-first-pcb/blob/master/MET_Matrix.md) as part of the process of designing and preparing your pcb design.
 
